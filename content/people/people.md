@@ -19,9 +19,9 @@ content:
     - Principal Investigators
     - Researchers
     - Grad Students
-    - Administration
     - Visitors
     - Alumni
+    - External Collaborators
 design:
   show_interests: false
   show_role: true
