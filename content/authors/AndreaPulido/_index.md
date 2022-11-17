@@ -6,7 +6,7 @@ title: Andrea Pulido
 superuser: true
 
 # Role/position
-role: Phd Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:

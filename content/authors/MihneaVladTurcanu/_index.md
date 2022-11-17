@@ -6,10 +6,9 @@ title: Mihnea Vlad Turcanu
 superuser: false
 
 # Role/position Choose Between   
-# - Researchers
 # - Principal Investigators
+# - Researchers
 # - Grad Students
-# - Administration
 # - Visitors
 # - Alumni
 # - External Collaborators
