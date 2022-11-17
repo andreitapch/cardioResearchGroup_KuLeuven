@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: Tour.jpg
+        media: tour.jpg
     - title: Learn
       content: 'Abstract from a lab member (To change every X months) '
       align: right
