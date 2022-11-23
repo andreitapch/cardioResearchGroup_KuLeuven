@@ -28,8 +28,7 @@ design:
 
 
 
-<strong> What we do! </strong>
+<strong> What we do </strong>
 <br>
 
 --
-hero_media: whatWeDo.png
