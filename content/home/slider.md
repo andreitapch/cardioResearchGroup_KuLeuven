@@ -32,7 +32,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: learn.jpg
-    - title: News IUS 2022
+    - title: News
       content: 'Take a look at our latest group news'
       align: right
       background:
