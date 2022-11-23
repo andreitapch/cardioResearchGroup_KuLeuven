@@ -6,23 +6,24 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '300px'
+  slide_height: '400px'
   is_fullscreen: false
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 10000
 
 content:
   slides:
-    - title: Welcome to our group
-      content: Take a look at what we're working on...
-      align: center
+    - title: Cardiovascular Imaging and Dynamics Research Group
+      content: Welcome to our group...
+      align: right
       background:
+        fit: 
         position: right
-        color: '#666'
+        color: '#2596be'
         brightness: 0.7
-        media: tour.jpg
+        media: heartLogoBanner.png
     - title: Learn
       content: 'Abstract from a lab member (To change every X months) '
       align: right
