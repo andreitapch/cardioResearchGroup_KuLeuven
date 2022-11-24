@@ -13,7 +13,7 @@ superuser: false
 # - Visitors
 # - Alumni
 # - External Collaborators
-role:
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
