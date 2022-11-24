@@ -19,8 +19,8 @@ content:
       content: Welcome to our group...
       align: right
       background:
-        fit: 
-        position: right
+        fit: contain
+        position: left
         color: '#2596be'
         brightness: 0.7
         media: heartLogoBanner.png

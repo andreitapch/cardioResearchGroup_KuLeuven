@@ -24,14 +24,14 @@ organizations:
 bio: My research interests include .....
 
 interests:
-  - Ultrasound Imaging
-  - ...
-  - ...
+  - Ultrasound array design
+  - Beamforming
+  - Image processing
 
 education:
   courses:
     - course: PhD in
-      institution:
+      institution: University of Strathclyde
       year:
     - course: Msc
       institution:
