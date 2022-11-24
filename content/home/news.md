@@ -10,7 +10,7 @@ subtitle:
 content:
   count: 5
   filters:
-    author: ''
+    author: 'Admin'
     category: ''
     exclude_featured: false
     publication_type: ''

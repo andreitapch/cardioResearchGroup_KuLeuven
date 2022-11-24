@@ -13,7 +13,7 @@ superuser: false
 # - Visitors
 # - Alumni
 # - External Collaborators
-role:
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,7 @@ interests:
   - Ultrasound Imaging
   - ...
   - ...
+
 education:
   courses:
     - course: PhD in
@@ -46,16 +47,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=....J
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/.....
+    link: 'marcus.ingram@kuleuven.be'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'marcus.ingram@kuleuven.be'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,4 +68,4 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Marcus was born in Aberdeen, Scotland in 1991. He obtained his PhD in 2019 from the University of Strathclyde, Glasgow where is research focused on the application of ultrasonics phased array for imaging of chemical processes. Since then he has been working as a Postdoctoral Research Associate at KU Leuven where his research interests include ultrasound array design, beamforming and image processing. He has been actively involved in the AMPHORA project as coordinator and is currently developing volumetric imaging sequences for knee ligament imaging. He is also engaged in various projects involving flexible array technology for wearable applications.

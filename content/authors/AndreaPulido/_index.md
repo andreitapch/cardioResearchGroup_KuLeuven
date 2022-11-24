@@ -3,7 +3,7 @@
 title: Andrea Pulido
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD Student
@@ -18,8 +18,10 @@ bio: My research interests include Ultrasound Imaging.
 
 interests:
   - Artificial Intelligence
-  - Ultrasound Imaging
+  - Medical Imaging
   - Deep Learning
+  - Pattern Recognition
+  - Motion Estimation
 
 education:
   courses:
@@ -41,12 +43,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'andrea.pulido@hotmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen

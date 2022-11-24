@@ -16,7 +16,7 @@ main:
   - name: Events
     url: event
     weight: 40
-  - name: Join Us
+  - name: Join us
     url: positions
     weight: 40
     weight: 50
